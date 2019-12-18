@@ -1,0 +1,36 @@
+.custom-color {
+  background-color: tomato !important;
+}
+
+.quem-somos {
+  background-color: darksalmon;
+}
+
+.margin {
+  padding: 30px;
+}
+
+.quem-somos-img {
+  padding: 20px;
+}
+
+.quem-somos-description,
+.parceiros,
+.quem-somos-title,
+.services-description {
+  color: azure;
+}
+
+.parceiros {
+  background-color: royalblue;
+}
+
+.services {
+  background-color: blueviolet;
+}
+
+.parceiros-img,
+.services-img {
+  width: 100%;
+  padding: 5px;
+}
